@@ -1,0 +1,11 @@
+Vertailu
+
+- WooCommerce on monipuolinen ja laajennettavissa oleva ratkaisu, joka sopii useimpiin verkkokauppatarpeisiin.
+
+- Easy Digital Downloads on paras valinta, jos keskitytään pelkästään digitaalisten tuotteiden myyntiin.
+
+- WP eCommerce tarjoaa perusominaisuudet, mutta ei ole yhtä suosittu tai aktiivisesti kehitetty kuin muut vaihtoehdot.
+
+- MemberPress on erinomainen jäsenyyspohjaisille sivustoille ja verkkokursseille.
+
+- BigCommerce for WordPress soveltuu suurille verkkokaupoille, jotka tarvitsevat skaalautuvuutta ja tehokkuutta.
